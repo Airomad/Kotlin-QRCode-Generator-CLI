@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactManager">
+    <artifact type="jar" name="Kotlin-QRCode-Generator-CLI:jar">
+      <output-path>$PROJECT_DIR$/out/artifacts/Kotlin_QRCode_Generator_CLI_jar</output-path>
+      <root id="archive" name="Kotlin-QRCode-Generator-CLI.jar">
+        <element id="module-output" name="Kotlin-QRCode-Generator-CLI" />
+        <element id="extracted-dir" path="D:/I/gradle/gradle-3.4.1/cache/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.0/96a07041a11a09cf578892932d7511e1e11e3b6c/kotlin-stdlib-1.1.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="D:/I/gradle/gradle-3.4.1/cache/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="D:/I/gradle/gradle-3.4.1/cache/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="D:/I/gradle/gradle-3.4.1/cache/caches/modules-2/files-2.1/com.github.jai-imageio/jai-imageio-core/1.3.1/300f3f0dedfca37b3278991f9397354971b37156/jai-imageio-core-1.3.1.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="D:/I/gradle/gradle-3.4.1/cache/caches/modules-2/files-2.1/com.google.guava/guava/19.0/6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9/guava-19.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="D:/I/gradle/gradle-3.4.1/cache/caches/modules-2/files-2.1/com.beust/jcommander/1.48/bfcb96281ea3b59d626704f74bc6d625ff51cbce/jcommander-1.48.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="D:/I/gradle/gradle-3.4.1/cache/caches/modules-2/files-2.1/com.google.zxing/javase/3.3.0/1d0cd0280ea9919ca928df5a3752b6f6a645b00e/javase-3.3.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="D:/I/gradle/gradle-3.4.1/cache/caches/modules-2/files-2.1/commons-cli/commons-cli/1.3.1/1303efbc4b181e5a58bf2e967dc156a3132b97c0/commons-cli-1.3.1.jar" path-in-jar="/" />
+        <element id="file-copy" path="D:/I/gradle/gradle-3.4.1/cache/caches/modules-2/files-2.1/com.google.zxing/zxingorg/3.3.0/be565e4e61373acc6b722fa7c67ff5ce9bbc15d2/zxingorg-3.3.0.war" />
+      </root>
+    </artifact>
+  </component>
   <component name="CompilerConfiguration">
     <resourceExtensions>
       <entry name=".+\.(properties|xml|html|dtd|tld)" />
@@ -62,6 +79,9 @@
   </component>
   <component name="SvnBranchConfigurationManager">
     <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
   </component>
   <component name="masterDetails">
     <states>
