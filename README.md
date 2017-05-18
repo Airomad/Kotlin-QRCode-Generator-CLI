@@ -11,3 +11,8 @@ Simple app for QR code generation via terminal
 | --- | --- | --- | --- |
 | --string -s | Set string to encode | Yes | String |
 | --output -o | Set output picture name | No | String |
+
+### Example of usage
+```
+java -jar qrcode-generator.jar -s "Hello World!" -o "hello_world.png"
+```
