@@ -7,3 +7,7 @@ Simple app for QR code generation via terminal
 3. Use as usual App with Command Line Interface
 
 ### Commands
+| Command  | Operation | Is required | Parameter type |
+| --- | --- | --- | --- |
+| --string -s | Set string to encode | Yes | String |
+| --output -o | Set output picture name | No | String |
